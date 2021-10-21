@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/esercizi/static/css/main.a617e044.chunk.css",
+    "main.js": "/esercizi/static/js/main.d1d94d24.chunk.js",
+    "main.js.map": "/esercizi/static/js/main.d1d94d24.chunk.js.map",
+    "runtime-main.js": "/esercizi/static/js/runtime-main.595b6e5a.js",
+    "runtime-main.js.map": "/esercizi/static/js/runtime-main.595b6e5a.js.map",
+    "static/js/2.64660a7a.chunk.js": "/esercizi/static/js/2.64660a7a.chunk.js",
+    "static/js/2.64660a7a.chunk.js.map": "/esercizi/static/js/2.64660a7a.chunk.js.map",
+    "static/js/3.603fc690.chunk.js": "/esercizi/static/js/3.603fc690.chunk.js",
+    "static/js/3.603fc690.chunk.js.map": "/esercizi/static/js/3.603fc690.chunk.js.map",
+    "index.html": "/esercizi/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/esercizi/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.64660a7a.chunk.js.LICENSE.txt": "/esercizi/static/js/2.64660a7a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/esercizi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.595b6e5a.js",
+    "static/js/2.64660a7a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d1d94d24.chunk.js"
+  ]
+}
